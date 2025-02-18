@@ -145,7 +145,7 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <Newspaper className="h-8 w-8 text-indigo-400" />
-              <h1 className="text-3xl font-bold text-white">TechPulse</h1>
+              <h2 className="text-3xl font-bold text-white">TechPulse</h2>
             </div>
             
             {/* Desktop Menu */}
